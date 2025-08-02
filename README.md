@@ -242,8 +242,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/bhaktofmahakal)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/utsav-mishra1)
+- GitHub: [@bhaktofmahakal](https://github.com/bhaktofmahakal)
+- LinkedIn: [Utsav Mishra](https://linkedin.com/in/utsav-mishra1)
 - Email: utsavmishraa005@gmail.com
 
 ## 🙏 Acknowledgments
