@@ -4,8 +4,8 @@ A full-stack LinkedIn-like community platform built with modern web technologies
 
 ## 🚀 Live Demo
 
-- **Frontend**: [Deployed on Vercel](https://your-app.vercel.app)
-- **Backend**: [Deployed on Render](https://your-api.onrender.com)
+- **Frontend**: [Deployed on Vercel](https://linked-in-clone-fawn.vercel.app/)
+- **Backend**: [Deployed on Render](https://linkedin-clone-backend-ejyr.onrender.com/api)
 
 ## 🛠️ Tech Stack
 
@@ -175,24 +175,6 @@ For testing purposes, you can create accounts or use these demo credentials:
 - Name: Jane Smith
 - Bio: UI/UX designer with 5+ years of experience in creating beautiful interfaces.
 
-## 🚀 Deployment
-
-### Frontend (Vercel)
-1. Push code to GitHub
-2. Connect repository to Vercel
-3. Set environment variables:
-   - `NEXT_PUBLIC_API_URL=https://your-backend-url.onrender.com/api`
-4. Deploy automatically
-
-### Backend (Render)
-1. Connect repository to Render
-2. Set environment variables:
-   - `MONGODB_URI=your-mongodb-atlas-connection-string`
-   - `JWT_SECRET=your-production-jwt-secret`
-   - `CLIENT_URL=https://your-frontend-url.vercel.app`
-   - `NODE_ENV=production`
-3. Deploy
-
 ### Database (MongoDB Atlas)
 1. Create free cluster on MongoDB Atlas
 2. Create database user
@@ -260,9 +242,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/bhaktofmahakal)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/utsav-mishra1)
+- Email: utsavmishraa005@gmail.com
 
 ## 🙏 Acknowledgments
 
