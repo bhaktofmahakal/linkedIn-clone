@@ -109,3 +109,4 @@ logs
 
 # Local development
 .env.local
+.env
